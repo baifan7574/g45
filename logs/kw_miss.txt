@@ -96,3 +96,5 @@ tags\natural-look.html
 tags\soft-portraits.html
 tags\soft-portraits_2.html
 tags\soft-portraits_3.html
+index.html
+link_list.html
